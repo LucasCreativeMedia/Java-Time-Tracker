@@ -15,7 +15,7 @@ public class trackMyTime {
         String lastName;
         String jobNumber;
         String jobHours;
-        int quitProgram = 2;
+        int quitProgram;
 
         do {
             // Listens for user input
