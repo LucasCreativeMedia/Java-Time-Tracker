@@ -1,3 +1,3 @@
 # Java-Time-Tracker
-Java based job log program | 
-Test run with Java
+Java based job log program 
+My test run with Java
